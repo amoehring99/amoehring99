@@ -28,7 +28,7 @@
 </div>
 
 ##### 📬 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-amoehring99-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![Linkedin Badge](https://img.shields.io/badge/-amoehring99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-m%C3%B6hring-273b47295/)
 
 ---
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=amoehring99&theme=github_dark&api_domain=wakapi.dev&display_format=percent&custom_title=Weekly%20Stats&layout=default&line_height=40&langs_count=10&hide=unknown,Text,desktop,INI,gitignore)
