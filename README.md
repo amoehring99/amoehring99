@@ -20,10 +20,8 @@
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="20" height="20"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kicad.svg" title="KiCad" alt="KiCad" width="20" height="20"/>
   <!-- OS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="20" height="20"/>
 </div>
 
