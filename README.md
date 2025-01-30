@@ -15,9 +15,9 @@
   <!-- Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/rust-light.svg" title="Rust" alt="Rust" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-256x256.png" title="Rust" alt="Rust" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg" title="Bash" alt="Bash" width="20" height="20"/>&nbsp;
   <img src="https://github.com/SublimeText/AFileIcon/blob/master/icons/multi/file_type_vhdl%403x.png" title="VHDL" alt="VHDL" width="20" height="20"/>&nbsp;
   <!-- Tools -->
