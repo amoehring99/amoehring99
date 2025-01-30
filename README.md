@@ -1,4 +1,5 @@
 # About Me :
+
 <div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMxcW1hc2YwdGo2aDZsMzd0cmU3ZGR6b2U5YWliMjhjcjl2Nnc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" align="right"/>
   <div>
@@ -9,6 +10,7 @@
 </div>
 
 <!-- List your languages and tools here -->
+
 <div>
   <!-- Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp;
@@ -26,11 +28,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="20" height="20"/>
 </div>
 
-##### 📬 How to reach me: 
+##### 📬 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-amoehring99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-m%C3%B6hring-273b47295/)
 
----
-![](https://github-readme-stats.vercel.app/api/wakatime?username=amoehring99&theme=github_dark&api_domain=wakapi.dev&display_format=percent&custom_title=Monthly%20Stats&layout=default&line_height=40&langs_count=10&hide=unknown,Text,desktop,INI,gitignore)
+______________________________________________________________________
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=amoehring99&theme=github_dark&api_domain=wakapi.dev&display_format=percent&custom_title=Wakapi.dev+Stats+%28Last+30+Days%29&layout=default&line_height=40&langs_count=10&hide=unknown,Text,desktop,INI,gitignore)
 
 <!--
 **amoehring99/amoehring99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
