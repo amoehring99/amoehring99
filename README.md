@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMxcW1hc2YwdGo2aDZsMzd0cmU3ZGR6b2U5YWliMjhjcjl2Nnc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" align="right"/>
   <div>
     <p><strong>🎓  Computer Science student at KIT in Karlsruhe, Germany.</strong></p>
-    <p><strong>⚡  Interest in Computer Architecture, Embedded Systems, FPGA / HDLs,...</strong></p>
+    <p><strong>⚡  Interest in Computer Architecture and Embedded Systems.</strong></p>
     <p><strong>🔧  Languages and Tools:</strong></p>
   </div>
 </div>
