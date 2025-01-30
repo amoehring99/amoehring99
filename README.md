@@ -15,17 +15,17 @@
   <!-- Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/rust-light.svg" title="Rust" alt="Rust" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/file-icons/icons/blob/master/svg/VHDL.svg" title="VHDL" alt="VHDL" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg" title="Bash" alt="Bash" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/SublimeText/AFileIcon/blob/master/icons/multi/file_type_vhdl%403x.png" title="VHDL" alt="VHDL" width="20" height="20"/>&nbsp;
   <!-- Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="20" height="20"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kicad.svg" title="KiCad" alt="KiCad" width="20" height="20"/>&nbsp;
   <!-- STM32 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo_2019_blue.svg" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20211014082219%21ST_logo_2020_blue_V.svg" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
   <!-- ROS 2 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS 2" alt="ROS 2" width="20" height="20"/>&nbsp;
   <!-- OS -->
