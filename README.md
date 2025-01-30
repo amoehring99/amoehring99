@@ -23,7 +23,11 @@
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kicad.svg" title="KiCad" alt="KiCad" width="20" height="20"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kicad.svg" title="KiCad" alt="KiCad" width="20" height="20"/>&nbsp;
+  <!-- STM32 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo_2019_blue.svg" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
+  <!-- ROS 2 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS 2" alt="ROS 2" width="20" height="20"/>&nbsp;
   <!-- OS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="20" height="20"/>
 </div>
