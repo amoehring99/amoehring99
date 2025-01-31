@@ -25,9 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="20" height="20"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kicad.svg" title="KiCad" alt="KiCad" width="20" height="20"/>&nbsp;
   <!-- STM32 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20211014082219%21ST_logo_2020_blue_V.svg" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/94375000?s=200&v=4" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
   <!-- ROS 2 -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS 2" alt="ROS 2" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/ros-infrastructure/artwork/blob/master/distributions/jazzy/JazzyJalisco_turtlesim_icon.png" title="ROS 2" alt="ROS 2" width="20" height="20"/>&nbsp;
+ 
   <!-- OS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="20" height="20"/>
 </div>
