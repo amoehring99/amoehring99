@@ -23,7 +23,7 @@
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/KiCad/.github/blob/main/images/kicad_logo_small.png" title="KiCad" alt="KiCad" width="20" height="20"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" title="KiCad" alt="KiCad" width="20" height="20"/>&nbsp;
   <!-- STM32 -->
   <img src="https://avatars.githubusercontent.com/u/94375000?s=200&v=4" title="STM32" alt="STM32" width="20" height="20"/>&nbsp;
   <!-- ROS 2 -->
